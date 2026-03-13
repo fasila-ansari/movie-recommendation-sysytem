@@ -15,12 +15,20 @@ Based on these features, the system calculates similarity scores and recommends 
 4. The program recommends the most similar movies from the dataset.
 ## Example
 Input:
+
+```
 Enter a movie name: Interstellar
+```
+
 Output:
+
+```
 Top Recommended Movies:
+
 The Dark Knight (similarity score: 0.82)
 Inception (similarity score: 0.82)
 Avengers (similarity score: 0.58)
+```
 ## Purpose
 This project was created to practice basic machine learning and recommendation system concepts using Python. 
 It demonstrates how similarity algorithms can be used to suggest items based on shared features.
